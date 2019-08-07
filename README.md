@@ -11,7 +11,7 @@ git clone https://github.com/pengelana/OSXKeyRemap.git
 
 sudo cp OSXKeyRemap/keyboard.sh /usr/local/bin/
 
-sudo cp OSXKeyRemap/local.keyboard.plist ~/Library/LaunchAgents/local.keyboard.plist
+cp OSXKeyRemap/local.keyboard.plist ~/Library/LaunchAgents/local.keyboard.plist
 ~~~
 
 Reboot Mac
