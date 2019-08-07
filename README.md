@@ -9,9 +9,9 @@ Keyboard Right Alt `(0xE6)` to Keyboard Right Control `(0xE4)`
 ~~~
 git clone https://github.com/pengelana/OSXKeyRemap.git
 
-sudo cp OSXKeyRempat/keyboard.sh /usr/local/bin/
+sudo cp OSXKeyRemap/keyboard.sh /usr/local/bin/
 
-sudo cp OSXKeyRempat/local.keyboard.plist ~/Library/LaunchAgents/local.keyboard.plist
+sudo cp OSXKeyRemap/local.keyboard.plist ~/Library/LaunchAgents/local.keyboard.plist
 ~~~
 
 Reboot Mac
