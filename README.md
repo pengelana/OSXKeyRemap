@@ -4,7 +4,7 @@ Remapping OSX Keyboard: https://developer.apple.com/library/archive/technotes/tn
 
 # How to
 
-Keyboard Right Alt / Option `(0xE6)` to Keyboard Right Control `(0xE4)`
+Keyboard Right ⌥ Option`(0xE6)` to Keyboard Right Ctrl `(0xE4)`
 
 
 ![Keyboard](https://user-images.githubusercontent.com/787301/62616971-5e723080-b943-11e9-8414-0700c2a90db1.png)
