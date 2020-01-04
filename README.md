@@ -7,7 +7,7 @@ Remapping OSX Keyboard: https://developer.apple.com/library/archive/technotes/tn
 Keyboard Right ⌥ Option`(0xE6)` to Keyboard Right Ctrl `(0xE4)`
 
 
-![Keyboard](https://user-images.githubusercontent.com/787301/62616971-5e723080-b943-11e9-8414-0700c2a90db1.png)
+![Keyboard](https://user-images.githubusercontent.com/787301/71767853-cf962e00-2f4b-11ea-9ec4-330bf8f2389e.png)
 
 
 ~~~
