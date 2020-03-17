@@ -8,7 +8,8 @@ Keyboard `Right ⌥  Option (0xE6)` to Keyboard `Right Ctrl (0xE4)`
 
 Keyboard `Caps lock (0x39)` to Keyboard `esc (0x29)`
 
-![Keyboard](https://user-images.githubusercontent.com/787301/71767971-edb05e00-2f4c-11ea-9274-206987ce15f4.jpg)
+![Keyboard](https://user-images.githubusercontent.com/787301/76832896-3cd81080-6865-11ea-95f2-f3456366b46b.jpg)
+
 
 ~~~
 git clone https://github.com/pengelana/OSXKeyRemap.git
