@@ -6,7 +6,7 @@ Remapping OSX Keyboard: https://developer.apple.com/library/archive/technotes/tn
 
 Keyboard Right ⌥ Option`(0xE6)` to Keyboard Right Ctrl `(0xE4)`
 
-Keyboard Right `Caps lock(0x39)` to Keyboard `ESC (0x29)`
+Keyboard `Caps lock(0x39)` to Keyboard `esc (0x29)`
 
 ![Keyboard](https://user-images.githubusercontent.com/787301/71767971-edb05e00-2f4c-11ea-9274-206987ce15f4.jpg)
 
