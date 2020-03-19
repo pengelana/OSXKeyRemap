@@ -4,10 +4,10 @@ Remapping OSX Keyboard: https://developer.apple.com/library/archive/technotes/tn
 
 # How to
 
-| Key                      | Map to              |
-|--------------------------|---------------------|
-| `Right ⌥  Option (0xE6)` | `Right Ctrl (0xE4)` |
-| `Caps lock (0x39)`       | `ESC (0x29)`        |
+| Key                       | id     | Map to          | id     |
+| ------------------------- | ------ | --------------- | ------ |
+| Right ⌥  Option           | `0xE6` | Right Ctrl      | `0xE4` |
+| Caps lock                 | `0x39` | ESC             | `0x29` |
 
 ![Keyboard](https://user-images.githubusercontent.com/787301/76832896-3cd81080-6865-11ea-95f2-f3456366b46b.jpg)
 
