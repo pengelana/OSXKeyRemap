@@ -2,7 +2,7 @@
 Remapping OSX Keyboard: https://developer.apple.com/library/archive/technotes/tn2450/_index.html
 
 
-# How to
+## How to
 
 | Key                       | id     | Map to          | id     |
 | ------------------------- | ------ | --------------- | ------ |
@@ -27,3 +27,8 @@ cp OSXKeyRemap/local.keyboard.plist ~/Library/LaunchAgents/local.keyboard.plist
 ~~~
 
 Reboot Mac
+
+
+## Key Table 
+
+![table](https://user-images.githubusercontent.com/787301/77035980-f4e1f680-69e8-11ea-8ff2-b39c95f3a3a0.jpg)
